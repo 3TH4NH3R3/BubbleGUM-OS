@@ -2,7 +2,7 @@
 
 GUM stands 4 Gorgeous UI'ed Machine
 
-**BubbleGUM OS** is an **Arch-based Linux distro** designed for people who want:  
+## **BubbleGUM OS** is an **Arch-based Linux distro** designed for people who want:  
 - 🖥️ **Arch power, without the install drama** - thanks to the Calamares installer.  
 - 🎨 **Aesthetic vibes** - KDE Plasma pre-styled to look stunning out of the box.  
 - 🛡️ **Stability that lasts** - no constant patching or chasing updates; BubbleGUM OS is refreshed **only with each Arch LTS release.**  
