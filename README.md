@@ -1,8 +1,8 @@
-# 🍬 BubbleGUM OS  
+# 🍬 BubbleGUM OS
 
-GUM stands 4 Gorgeous UI'ed Machine
+GUM stands 4 Gorgeous UI'ed Machine btw
 
-## **BubbleGUM OS** is an **Arch-based Linux distro** designed for people who want:  
+## **BubbleGUM OS** is an **Arch-based Linux distro** designed for ppl who want:  
 - 🖥️ **Arch power, without the install drama** - thanks to the Calamares installer.  
 - 🎨 **Aesthetic vibes** - KDE Plasma pre-styled to look stunning out of the box.  
 - 🛡️ **Stability that lasts** - no constant patching or chasing updates; BubbleGUM OS is refreshed **only with each Arch LTS release.**  
@@ -13,13 +13,14 @@ GUM stands 4 Gorgeous UI'ed Machine
 - 💻 Easy, guided installation with **Calamares**  
 - 🎨 KDE Plasma with a **prettified default theme** (slay-worthy desktop, zero effort)  
 - ⚡ Based on Arch Linux for access to **AUR + pacman** goodness  
-- 🔒 Stable & consistent, since we update only **on major Arch LTS releases**  
+- 🔒 Stable & consistent, since we update only **on major Arch LTS releases** 
+- 📷 BTRFS option for ppl
 
 ---
 
 ## 👑 Who’s it for?  
 - Users who want Arch **without** the painful install process  
-- People who value **stability over rolling release chaos**  
+- Ppl who value **stability over rolling release chaos**  
 - Anyone who loves an **OS that looks as good as it runs**  
 
 ---
@@ -51,3 +52,6 @@ BubbleGUM OS is a remix of existing open-source projects with extra themes, bran
 All **custom theming, configs, and branding** created for BubbleGUM OS are licensed under **GPL-3.0**.  
 
 Please feel free to check the [LICENSE](./LICENSE) file for details on GPL 3.0 and see [CREDITS.md](./CREDITS.md) for links to upstream projects.  
+
+## **🚧WARNING:**
+- BubbleGUM OS is currently under active development. Features, designs, and stability may change.
