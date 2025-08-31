@@ -1,5 +1,7 @@
 # 🍬 BubbleGUM OS  
 
+GUM stands 4 Gorgeous UI'ed Machine
+
 **BubbleGUM OS** is an **Arch-based Linux distro** designed for people who want:  
 - 🖥️ **Arch power, without the install drama** - thanks to the Calamares installer.  
 - 🎨 **Aesthetic vibes** - KDE Plasma pre-styled to look stunning out of the box.  
@@ -49,4 +51,3 @@ BubbleGUM OS is a remix of existing open-source projects with extra themes, bran
 All **custom theming, configs, and branding** created for BubbleGUM OS are licensed under **GPL-3.0**.  
 
 Please feel free to check the [LICENSE](./LICENSE) file for details on GPL 3.0 and see [CREDITS.md](./CREDITS.md) for links to upstream projects.  
-
