@@ -50,7 +50,7 @@ BubbleGUM OS is a remix of existing open-source projects with extra themes, bran
 - **Calamares Installer** is licensed under GPL-3.0-or-later.  
 - **And, Et cetera...** check [CREDITS.md](./CREDITS.md) 4 links to upstream projects.
 
-All **custom theming, configs, and branding** created 4 BubbleGUM OS are licensed under **GPL-3.0**.  
+All **custom theming, configs, and branding** created 4 BubbleGUM OS are going to be licensed under **GPL-3.0** when open-sourced.  
 
 Please feel free to check the [LICENSE](./LICENSE) file 4 details on GPL 3.0 and see [CREDITS.md](./CREDITS.md) 4 links to upstream projects.  
 
