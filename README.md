@@ -38,7 +38,7 @@ Because:
 - Built on [Arch Linux](https://archlinux.org/)  
 - Powered by [KDE Plasma](https://kde.org/plasma-desktop/)  
 - Easy install with [Calamares](https://calamares.io/)  
-- **And, Et cetera...** check [CREDITS.md](./CREDITS.md) 4 links to upstream projects.
+- **And, Et cetera...** check [CREDITS.md](./CREDITS.md) 4 more acknowledgements and details.
 
 ---
 
@@ -48,7 +48,7 @@ BubbleGUM OS is a remix of existing open-source projects with extra themes, bran
 - **Arch Linux** components remain under their original licenses (mostly GPL-2.0).  
 - **KDE Plasma** components remain under their original licenses (LGPL / GPL).  
 - **Calamares Installer** is licensed under GPL-3.0-or-later.  
-- **And, Et cetera...** check [CREDITS.md](./CREDITS.md) 4 links to upstream projects.
+- **And, Et cetera...** check [CREDITS.md](./CREDITS.md) 4 more acknowledgements and details.
 
 All **custom theming, configs, and branding** created 4 BubbleGUM OS are going to be licensed under **GPL-3.0** when open-sourced.  
 
